@@ -1,0 +1,6 @@
+- npm init -y
+- npm install axios
+
+- add no packet.json ("type": "module",) embaixo do "main";
+
+- node main
